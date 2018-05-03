@@ -89,7 +89,7 @@
     <h2>Фото обзор:</h2>
 
 
-  <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+  <div class="my-gallery" itemscope itemtype="https://schema.org/ImageGallery">
 
   </div>
 
@@ -130,7 +130,6 @@
 
                 <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
 
-                <!-- Preloader demo https://codepen.io/dimsemenov/pen/yyBWoR -->
                 <!-- element will get class pswp__preloader--active when preloader is running -->
                 <div class="pswp__preloader">
                     <div class="pswp__preloader__icn">
@@ -395,7 +394,7 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 
 var photo_str=''
 for (var i = 1; i <= 14; i++) {
-    photo_str+=`<figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    photo_str+=`<figure itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
       <a href="https://rawgit.com/work-prjs/cafe-maxim.ru/master/imgs/${i}.jpeg" itemprop="contentUrl" data-size="1024x1024">
           <img src="https://rawgit.com/work-prjs/cafe-maxim.ru/master/imgs/${i}.jpeg" itemprop="thumbnail" alt="Загрузка..." />
       </a>
