@@ -1,1 +1,1 @@
-Sitemap: https://7dir.github.io/skinny-bones-jekyll//sitemap.xml
+Sitemap: http://cafe-maxim.ru/sitemap.xml
