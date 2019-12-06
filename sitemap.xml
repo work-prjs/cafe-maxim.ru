@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://cafe-maxim.ru/cafe/</loc>
-</url>
-<url>
-<loc>http://cafe-maxim.ru/sauna/</loc>
+<loc>http://cafe-maxim.ru/</loc>
 </url>
 <url>
 <loc>http://cafe-maxim.ru/hotel/</loc>
 </url>
 <url>
-<loc>http://cafe-maxim.ru/</loc>
+<loc>http://cafe-maxim.ru/sauna/</loc>
+</url>
+<url>
+<loc>http://cafe-maxim.ru/cafe/</loc>
+</url>
+<url>
+<loc>http://cafe-maxim.ru/html_code.html</loc>
+<lastmod>2018-05-08T06:42:13+09:00</lastmod>
 </url>
 </urlset>
